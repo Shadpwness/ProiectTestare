@@ -1,0 +1,5 @@
+deploy/*
+ProjectA/build/*
+ProjectA/deploy/*
+ProjectB/build/*
+ProjectB/deploy/*
