@@ -5,6 +5,9 @@
 
 namespace ex
 {
+    /**
+    * \brief Dummy function
+    */
     void foo();
 }
 
